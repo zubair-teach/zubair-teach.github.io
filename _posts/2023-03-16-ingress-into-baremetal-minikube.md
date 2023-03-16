@@ -7,6 +7,8 @@ tags: [ingress minikube]
 pin: true
 ---
 
+![Minikube-on-baremetal-server](/posts/images/baremetal.png)
+
 What motivated me to write, is the fact that regardless of so much material on Kubernetes, I didn't find a simple example to ingress into a Kubernetes Cluster on a Bare-metal machine with real traffic.
 
 ## Prerequisites 
