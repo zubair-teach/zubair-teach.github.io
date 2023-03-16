@@ -9,7 +9,7 @@ pin: true
 
 What motivated me to write, is the fact that regardless of so much material on Kubernetes, I didn't find a simple example to ingress into a Kubernetes Cluster on a Bare-metal machine with real traffic.
 
-![Minikube-on-baremetal-server](/posts/images/baremetal.png)
+![Minikube-on-baremetal-server](/assets/images/baremetal.png)
 
 ## Prerequisites 
 
