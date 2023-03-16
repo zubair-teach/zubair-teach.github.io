@@ -1,7 +1,7 @@
 
 ---
 title: Bring Real Traffic into a minikube cluster on a Baremetal Server
-author: Zubair Ahmed
+author: zac
 date: 2023-03-16 11:33:00 +0800
 categories: [Kubernetes, DevOps]
 tags: [ingress baremetal minikube]
